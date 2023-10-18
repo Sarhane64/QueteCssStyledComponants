@@ -5,6 +5,7 @@ const Card = styled.figcaption`
     border-radius: 10px;
     width: 45%;
     margin: auto;
+    margin-top: 20px;
     color: white;
 `;
 
